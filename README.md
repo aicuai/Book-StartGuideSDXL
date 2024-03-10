@@ -1,7 +1,7 @@
 # 書籍「画像生成AI　Stable Diffusion スタートガイド」
 ## サポートリポジトリ
 
-![](https://www.sbcr.jp/wp-content/uploads/2024/02/9784815624569-1-424x596.jpg){.right}
+![](https://www.sbcr.jp/wp-content/uploads/2024/02/9784815624569-1-424x596.jpg)
 
 - [https://www.sbcr.jp/product/4815624569/](https://www.sbcr.jp/product/4815624569/)
 - [Amazon j.aicu.ai/SBXL](https://j.aicu.ai/SBXL)
