@@ -1,3 +1,7 @@
+torch==2.2.1
+torchaudio==2.2.1+cu121
+torchtext==0.17.1
+tensorflow==2.15.*
 accelerate==0.15.0
 transformers==4.26.0
 ftfy==6.1.1
@@ -7,7 +11,6 @@ einops==0.6.0
 diffusers==0.10.2
 pytorch-lightning==1.9.0
 bitsandbytes==0.41.3.post2
-tensorflow==2.15.*
 safetensors==0.4.1
 # gradio==3.16.2
 # altair==4.2.2
