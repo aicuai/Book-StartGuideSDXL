@@ -20,3 +20,6 @@
    - SD1.5系 https://github.com/hollowstrawberry/kohya-colab
    - SDXL系 https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer_XL.ipynb
 
+## 本書に含まれていないおまけコンテンツ
+
+- 実写系SD1.5 AICU A1111 TheLastBen on Colab for Photo [j.aicu.ai/SDPH](https://j.aicu.ai/SDPH)
