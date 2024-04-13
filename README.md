@@ -22,4 +22,19 @@
 
 ## 本書に含まれていないおまけコンテンツ
 
+- [AICU media 特集サイト](https://ja.aicu.ai/sbxl/)
 - 実写系SD1.5 AICU A1111 TheLastBen on Colab for Photo [j.aicu.ai/SDPH](https://j.aicu.ai/SDPH)
+- [出版社：SBクリエイティブ]()
+- [Amazon購入ページ]()
+- [note.com/aicu メンバーシップ掲示板] (https://note.com/aicu/membership/boards/61ab0aa9374e/posts/b19143b895ce)
+- 書籍を購入の方に AICU サポートDiscordもございます
+
+## 関連イベント・ワークショップ
+
+- [2024/4/19 19:00- 祝・重版出来！「画像生成AI Stable Diffusion スタートガイド」公式オンラインサイン会](https://techplay.jp/event/941839?utm_source=github)
+
+![image](https://github.com/aicuai/Book-StartGuideSDXL/assets/5110708/39daeeaa-6677-4801-8f25-f5c557e619ac)
+
+[Techplay](https://techplay.jp/community/AICU) および [note.com/aicu メンバーシップ掲示板](https://note.com/aicu/membership/boards/61ab0aa9374e/posts/b19143b895ce)にて最新の開催予定情報を掲示しています
+
+
