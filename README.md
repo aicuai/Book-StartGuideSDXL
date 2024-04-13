@@ -9,6 +9,10 @@
 - [Issues](https://github.com/aicuai/Book-StartGuideSDXL/issues)
 - [Membership](https://note.com/aicu/membership/boards/61ab0aa9374e/posts/7cab00942b22?from=self)
 
+## 進行中の未解決問題は [Issues](https://github.com/aicuai/Book-StartGuideSDXL/issues) をご確認ください
+
+- https://github.com/aicuai/Book-StartGuideSDXL/issues
+
 ## 本書で扱っている Colab ノートブック
 
 - [Foocus日本語版](https://j.aicu.ai/FoooC)  [j.aicu.ai/FoooC](https://j.aicu.ai/FoooC)
