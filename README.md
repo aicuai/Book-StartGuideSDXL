@@ -166,29 +166,51 @@ AUTOMATIC1111/WebUI おすすめ拡張機能
 ## 充実したコラム！
 ページ番号とともに紹介します
 
-'''COLUMN 使用するGoogle アカウントに注意しよう 14
-COLUMN 変わりゆく社会とAI の関係性 25
-COLUMN 利用しているプログラムについて 43
-COLUMN Google Colab のエラーに対応しよう 45
-COLUMN Google Colab の計算資源を有効に管理しよう 47
-COLUMN パッケージ選択ではエスケープしないように注意しよう 57
-COLUMN 画像の保存場所を変更しよう 62
-COLUMN コミュニティで質問してみる 63
-COLUMN StableDiffusion シリーズとは 65
-COLUMN CLIP のゼロショット転移性 78
-COLUMN embedding とは 82
-COLUMN デフォルメキャラ風の画像を生成してみよう 106
-COLUMN 色の変化を抑える設定をしておこう 111
-COLUMN 下書きから画像を生成してみよう 114
-COLUMN Mask blur を調整して自然に見せる 118
-COLUMN 拡張機能とは 124
-COLUMN オープンソースライセンスの確認 131
-COLUMN 複数のControlNet を使用する 141
-COLUMN Openpose をもっと使いこなそう 144
-COLUMN これからのLoRA の活用方法 149
-COLUMN LoRA の学習データで気を付けるべきこと 154
-COLUMN 手元に保管しているモデルファイルをLoRA 学習に使う 158
-COLUMN 写真や写実的な画像を学習させる場合 161
-COLUMN 学習の全体像を把握しよう 167'''
+COLUMN 使用するGoogle アカウントに注意しよう 14
 
+COLUMN 変わりゆく社会とAI の関係性 25
+
+COLUMN 利用しているプログラムについて 43
+
+COLUMN Google Colab のエラーに対応しよう 45
+
+COLUMN Google Colab の計算資源を有効に管理しよう 47
+
+COLUMN パッケージ選択ではエスケープしないように注意しよう 57
+
+COLUMN 画像の保存場所を変更しよう 62
+
+COLUMN コミュニティで質問してみる 63
+
+COLUMN StableDiffusion シリーズとは 65
+
+COLUMN CLIP のゼロショット転移性 78
+
+COLUMN embedding とは 82
+
+COLUMN デフォルメキャラ風の画像を生成してみよう 106
+
+COLUMN 色の変化を抑える設定をしておこう 111
+
+COLUMN 下書きから画像を生成してみよう 114
+
+COLUMN Mask blur を調整して自然に見せる 118
+
+COLUMN 拡張機能とは 124
+
+COLUMN オープンソースライセンスの確認 131
+
+COLUMN 複数のControlNet を使用する 141
+
+COLUMN Openpose をもっと使いこなそう 144
+
+COLUMN これからのLoRA の活用方法 149
+
+COLUMN LoRA の学習データで気を付けるべきこと 154
+
+COLUMN 手元に保管しているモデルファイルをLoRA 学習に使う 158
+
+COLUMN 写真や写実的な画像を学習させる場合 161
+
+COLUMN 学習の全体像を把握しよう 167
 
