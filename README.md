@@ -9,6 +9,12 @@
 - [Issues](https://github.com/aicuai/Book-StartGuideSDXL/issues)
 - [Membership](https://note.com/aicu/membership/boards/61ab0aa9374e/posts/7cab00942b22?from=self)
 
+## Updates
+
+- [20240729 Google Colab での TheLastBen版「Fast Stable Diffusion - AUTOMATIC1111」を 長期間サポート(LTS)化を目指して完全解説](https://note.com/aicu/n/nf5562077c8ad)
+- 20240728 AUTOMATIC1111 v1.10.x に対応しました https://j.aicu.ai/SBXL1 https://j.aicu.ai/SBXL2
+
+
 ## 進行中の未解決問題は [Issues](https://github.com/aicuai/Book-StartGuideSDXL/issues) をご確認ください
 
 - https://github.com/aicuai/Book-StartGuideSDXL/issues
@@ -34,6 +40,10 @@
 - 書籍を購入の方に AICU サポートDiscordもございます
 
 ## 関連イベント・ワークショップ
+
+- [2024/06/26(水) 19:00〜20:30- 【生成AIの社会と倫理】「画像生成AI Stable Diffusion スタートガイド」](https://techplay.jp/event/946209)
+
+- [2024/05/15 【Stable Diffusion でデルタもん LoRA を作ろう！】「画像生成AI Stable Diffusion スタートガイド」](https://techplay.jp/event/942272)
 
 - [2024/4/19 19:00- 祝・重版出来！「画像生成AI Stable Diffusion スタートガイド」公式オンラインサイン会](https://techplay.jp/event/941839?utm_source=github)
 
