@@ -11,6 +11,7 @@
 
 ## Updates
 
+- 20241228 第3刷に対応した hotfixを実施しました 
 - [20240729 Google Colab での TheLastBen版「Fast Stable Diffusion - AUTOMATIC1111」を 長期間サポート(LTS)化を目指して完全解説](https://note.com/aicu/n/nf5562077c8ad)
 - 20240728 AUTOMATIC1111 v1.10.x に対応しました https://j.aicu.ai/SBXL1 https://j.aicu.ai/SBXL2
 
