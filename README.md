@@ -1,5 +1,5 @@
 # 書籍「画像生成AI　Stable Diffusion スタートガイド」
-## サポートリポジトリ
+## サポートリポジトリ 第3刷対応版
 
 ![](https://www.sbcr.jp/wp-content/uploads/2024/02/9784815624569-1-424x596.jpg)
 
@@ -11,7 +11,8 @@
 
 ## Updates
 
-- 20241228 第3刷に対応した hotfixを実施しました 
+- 20241228 第3刷に対応した hotfixを実施しました [https://j.aicu.ai/SBXL1](https://j.aicu.ai/SBXL1)  [https://j.aicu.ai/SBXL2](https://j.aicu.ai/SBXL2)
+- 20241118 第3刷 6.3 自分の画風のLoRAを作る [https://j.aicu.ai/SDLoRA2](https://j.aicu.ai/SDLoRA2)
 - [20240729 Google Colab での TheLastBen版「Fast Stable Diffusion - AUTOMATIC1111」を 長期間サポート(LTS)化を目指して完全解説](https://note.com/aicu/n/nf5562077c8ad)
 - 20240728 AUTOMATIC1111 v1.10.x に対応しました https://j.aicu.ai/SBXL1 https://j.aicu.ai/SBXL2
 
