@@ -11,6 +11,7 @@
 
 ## Updates
 
+- [20250405 起動不具合を解消する hotfix と Animagine XL4.0 zeroへ対応を実施しました。](https://note.com/aicu/n/ndbf69d4aa154)
 - 20241228 第3刷に対応した hotfixを実施しました [https://j.aicu.ai/SBXL1](https://j.aicu.ai/SBXL1)  [https://j.aicu.ai/SBXL2](https://j.aicu.ai/SBXL2)
 - 20241118 第3刷 6.3 自分の画風のLoRAを作る [https://j.aicu.ai/SDLoRA2](https://j.aicu.ai/SDLoRA2)
 - [20240729 Google Colab での TheLastBen版「Fast Stable Diffusion - AUTOMATIC1111」を 長期間サポート(LTS)化を目指して完全解説](https://note.com/aicu/n/nf5562077c8ad)
@@ -229,4 +230,6 @@ COLUMN 手元に保管しているモデルファイルをLoRA 学習に使う 1
 COLUMN 写真や写実的な画像を学習させる場合 161
 
 COLUMN 学習の全体像を把握しよう 167
+
+
 
