@@ -11,6 +11,7 @@
 
 ## Updates
 
+- 20250518 LoRA編の不具合を修正、SDXLおよびAnimagine XL4.0に対応しました。
 - [20250405 起動不具合を解消する hotfix と Animagine XL4.0 zeroへ対応を実施しました。](https://note.com/aicu/n/ndbf69d4aa154)
 - 20241228 第3刷に対応した hotfixを実施しました [https://j.aicu.ai/SBXL1](https://j.aicu.ai/SBXL1)  [https://j.aicu.ai/SBXL2](https://j.aicu.ai/SBXL2)
 - 20241118 第3刷 6.3 自分の画風のLoRAを作る [https://j.aicu.ai/SDLoRA2](https://j.aicu.ai/SDLoRA2)
@@ -27,11 +28,11 @@
 - [Foocus日本語版](https://j.aicu.ai/FoooC)  [j.aicu.ai/FoooC](https://j.aicu.ai/FoooC)
 - 第2章 [A1111 on Colab](https://j.aicu.ai/SBXL1) [j.aicu.ai/SBXL1](https://j.aicu.ai/SBXL1)
 - 第5章:ControlNet編 [TheLastBen](https://j.aicu.ai/SBXL2) [j.aicu.ai/SBXL2](https://j.aicu.ai/SBXL2)
-- 第6章 LoRAを作って使ってみよう [https://j.aicu.ai/SDLoRA1x](https://j.aicu.ai/SDLoRA1x) 現在改修中です
-   - 原作のアーカイブ化にともない、今後の対応を検討中です https://note.com/aicu/n/n96c10dd1249b
-   - 代替の推奨スクリプトは「⭐ Lora Trainer by Hollowstrawberry」になります
-   - SD1.5系 https://github.com/hollowstrawberry/kohya-colab
-   - SDXL系 https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer_XL.ipynb
+- 第6章 LoRAを作って使ってみよう (第3刷にて大幅改訂)
+   - 6.3 自分の画風のLoRAを作る　https://j.aicu.ai/SDLoRA2
+   - 旧スクリプト [https://j.aicu.ai/SDLoRA1x](https://j.aicu.ai/SDLoRA1x) 原作のアーカイブ化にともない、今後の対応を[検討](https://note.com/aicu/n/n96c10dd1249b)しておりましたが、代替の推奨スクリプトは「⭐ Lora Trainer by Hollowstrawberry」になります
+   - SD1.5系 https://j.aicu.ai/SDLoRA2
+   - SDXL系 https://j.aicu.ai/SDLoRA2XL
 
 ## 本書に含まれていないおまけコンテンツ
 
