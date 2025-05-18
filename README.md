@@ -8,10 +8,11 @@
 - [wiki](https://github.com/aicuai/Book-StartGuideSDXL/wiki)
 - [Issues](https://github.com/aicuai/Book-StartGuideSDXL/issues)
 - [Membership](https://note.com/aicu/membership/boards/61ab0aa9374e/posts/7cab00942b22?from=self)
+- [Huggingface](https://huggingface.co/AICU/SDXL-LoRA/blob/main/README.md)
 
 ## Updates
 
-- 20250518 LoRA編の不具合を修正、SDXLおよびAnimagine XL4.0に対応しました。
+- [20250518 LoRA編の不具合を修正、SDXLおよびAnimagine XL4.0に対応しました](https://note.com/aicu/n/n856b81b530e5)
 - [20250405 起動不具合を解消する hotfix と Animagine XL4.0 zeroへ対応を実施しました。](https://note.com/aicu/n/ndbf69d4aa154)
 - 20241228 第3刷に対応した hotfixを実施しました [https://j.aicu.ai/SBXL1](https://j.aicu.ai/SBXL1)  [https://j.aicu.ai/SBXL2](https://j.aicu.ai/SBXL2)
 - 20241118 第3刷 6.3 自分の画風のLoRAを作る [https://j.aicu.ai/SDLoRA2](https://j.aicu.ai/SDLoRA2)
