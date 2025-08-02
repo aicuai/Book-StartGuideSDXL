@@ -12,6 +12,7 @@
 
 ## Updates
 
+- [20250729 AICU A1111 TheLastBen on Colabの不具合修正](https://j.aicu.ai/SBXL1)
 - [20250518 LoRA編の不具合を修正、SDXLおよびAnimagine XL4.0に対応しました](https://note.com/aicu/n/n856b81b530e5)
 - [20250405 起動不具合を解消する hotfix と Animagine XL4.0 zeroへ対応を実施しました。](https://note.com/aicu/n/ndbf69d4aa154)
 - 20241228 第3刷に対応した hotfixを実施しました [https://j.aicu.ai/SBXL1](https://j.aicu.ai/SBXL1)  [https://j.aicu.ai/SBXL2](https://j.aicu.ai/SBXL2)
